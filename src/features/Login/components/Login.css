@@ -1,0 +1,7 @@
+.contentLogin {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    min-height: 5rem;
+    margin: 0 2rem 0 2rem;
+}
