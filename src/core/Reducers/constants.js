@@ -1,0 +1,6 @@
+export const LOADING = 'Loading'
+export const NOT_LOADING = 'NotLoading'
+export const UPD_USER = 'UpdUser'
+export const UPD_API_RESPONSE = 'UpdApiResponse'
+export const UPD_SESSION = 'UpdSession'
+export const USER_LOGOFF = 'UserLogoff'

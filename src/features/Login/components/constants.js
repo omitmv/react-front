@@ -1,0 +1,6 @@
+export const ENTER_KEY = 'Enter'
+export const LABEL_BTN_LOGAR = 'Logar'
+export const LABEL_LOGIN = 'Login'
+export const LABEL_SENHA = 'Senha'
+export const TITLE = 'Autenticação'
+export const LABEL_BTN_RECOVER_PASSWORD = 'Recuperar senha'
