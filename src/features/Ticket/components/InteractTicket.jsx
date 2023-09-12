@@ -61,6 +61,7 @@ export const InteractTicket = props => {
           aria-live="polite"
           aria-atomic="true"
           className="position-relative"
+          key={detail.CD_CHAMADO_DETALHE}
           style={{ minHeight: '10rem' }}
         >
           <ToastContainer
